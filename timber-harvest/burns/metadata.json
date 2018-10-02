@@ -1,0 +1,12 @@
+{
+"name": "timberharvest",
+"description": "timberharvest",
+"version": "2",
+"minzoom": "9",
+"maxzoom": "14",
+"center": "-119.234619,43.731413,14",
+"bounds": "-119.532300,43.705000,-118.346400,44.047600",
+"type": "overlay",
+"format": "pbf",
+"json": "{\"vector_layers\": [ { \"id\": \"timberharvest\", \"description\": \"\", \"minzoom\": 9, \"maxzoom\": 14, \"fields\": {\"assignedId\": \"Number\"} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"timberharvest\",\"count\": 111,\"geometry\": \"Polygon\",\"attributeCount\": 1,\"attributes\": [{\"attribute\": \"assignedId\",\"count\": 111,\"type\": \"number\",\"values\": [0,1,10,100,101,102,103,104,105,106,107,108,109,11,110,12,13,14,15,16,17,18,19,2,20,21,22,23,24,25,26,27,28,29,3,30,31,32,33,34,35,36,37,38,39,4,40,41,42,43,44,45,46,47,48,49,5,50,51,52,53,54,55,56,57,58,59,6,60,61,62,63,64,65,66,67,68,69,7,70,71,72,73,74,75,76,77,78,79,8,80,81,82,83,84,85,86,87,88,89],\"min\": 0,\"max\": 110}]}]}}"
+}

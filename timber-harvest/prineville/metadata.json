@@ -1,0 +1,12 @@
+{
+"name": "timberharvest",
+"description": "timberharvest",
+"version": "2",
+"minzoom": "9",
+"maxzoom": "14",
+"center": "-121.519775,43.524654,14",
+"bounds": "-121.525800,43.508400,-120.270300,44.218400",
+"type": "overlay",
+"format": "pbf",
+"json": "{\"vector_layers\": [ { \"id\": \"timberharvest\", \"description\": \"\", \"minzoom\": 9, \"maxzoom\": 14, \"fields\": {\"assignedId\": \"Number\"} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"timberharvest\",\"count\": 34,\"geometry\": \"Polygon\",\"attributeCount\": 1,\"attributes\": [{\"attribute\": \"assignedId\",\"count\": 34,\"type\": \"number\",\"values\": [0,1,10,11,12,13,14,15,16,17,18,19,2,20,21,22,23,24,25,26,27,28,29,3,30,31,32,33,34,35,4,5,6,9],\"min\": 0,\"max\": 35}]}]}}"
+}
