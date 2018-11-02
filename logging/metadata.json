@@ -1,0 +1,22 @@
+{
+    "interactivity": "false", 
+    "_updated": "1541018605000", 
+    "scale": "1", 
+    "autoscale": "true", 
+    "center": "-120.8359,44.0363,8", 
+    "format": "png8", 
+    "description": "", 
+    "metatile": "2", 
+    "bounds": "-124.5273,41.9799,-116.694,46.2407", 
+    "json": "{\"Stylesheet\":[{\"data\":\"\\n\\n#hansen {\\n  raster-opacity: 1;\\n  raster-colorizer-default-color: #9300d5;\\n  raster-colorizer-stops:\\n\\tstop(1, #9300d5);\\n}\\n\\n#fedcuts {\\n  line-color:#FFFFFF;\\n  line-width:0;\\n  polygon-opacity:1;\\n  polygon-fill:#9300d5;\\n}\\n\",\"id\":\"style.mss\"}],\"Layer\":[{\"geometry\":\"raster\",\"extent\":[-124.552460207,41.992768033,-116.46331021,46.269918015],\"id\":\"hansen\",\"class\":\"\",\"Datasource\":{\"file\":\"/Users/morin_ricardo/Documents/MapBox/project/Hansen/layers/hansen.tif\",\"band\":\"1\",\"type\":\"gdal\"},\"layer\":null,\"srs-name\":\"WGS84\",\"srs\":\"+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs\",\"advanced\":{\"band\":\"1\"},\"name\":\"hansen\"},{\"geometry\":\"polygon\",\"extent\":[-124.55898516734824,41.84438503259206,-116.65773652016183,46.11970993572521],\"id\":\"fedcuts\",\"class\":\"\",\"Datasource\":{\"file\":\"/Users/morin_ricardo/Documents/MapBox/project/Hansen/layers/fedcuts/fedcuts.shp\",\"type\":\"shape\"},\"layer\":null,\"srs-name\":\"autodetect\",\"srs\":\"+proj=utm +zone=10 +ellps=clrk66 +units=m +no_defs\",\"advanced\":{},\"name\":\"fedcuts\"}],\"tiles\":[\"http://127.0.0.1:20008/tile/Hansen/{z}/{x}/{y}.png?updated=1541018605000&metatile=2&scale=1\"],\"grids\":[\"http://127.0.0.1:20008/tile/Hansen/{z}/{x}/{y}.grid.json?updated=1541018605000&metatile=2&scale=1\"]}", 
+    "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over", 
+    "minzoom": "5", 
+    "version": "1.0.0", 
+    "template": "", 
+    "maxzoom": "13", 
+    "attribution": "", 
+    "tilejson": "2.0.0", 
+    "scheme": "xyz", 
+    "id": "Hansen", 
+    "name": "Logging top level"
+}
